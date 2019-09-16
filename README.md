@@ -7,4 +7,4 @@ After cloning this repo, install the dependencies and then run npm start command
 
 This app uses 4000 port.
 
-*Note: /app folder contains React Application Code. If you change the backend host/port other than localhost/4000, then you need to create react build again.*
+*Note: /app folder contains React Application Code. If you change the backend host/port other than localhost/4000, then you need to update the constant file for React project and re-build the react app again.*
