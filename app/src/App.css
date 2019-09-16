@@ -1,0 +1,10 @@
+body{
+  margin: 0;
+  background-color: #b9ffe8;
+}
+
+.container{
+  width: calc(100% - 20%);
+  margin: 0px auto;
+}
+.heading{ text-align: center; margin-top: 10%; }

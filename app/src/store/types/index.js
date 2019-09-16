@@ -1,0 +1,3 @@
+export const SEARCH_BUSINESS = "SEARCH_BUSINESS";
+export const SET_BUSINESS = "SET_BUSINESS";
+export const SET_LOADING = "SET_LOADING";
